@@ -3,6 +3,7 @@ project(MatrixMultiplication)
 
 
 include_directories(include)
+include_directories(src)
 
 
 add_subdirectory(googletest)
